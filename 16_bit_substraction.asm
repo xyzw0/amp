@@ -1,4 +1,3 @@
------ Subtract two 16-bit Numbers -----
 
 DATA SEGMENT 
 n2 dw 98A5h
